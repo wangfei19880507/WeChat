@@ -1,5 +1,6 @@
 package controllers
 
+//微信公众平台
 import (
 	"github.com/astaxie/beego"
 )
